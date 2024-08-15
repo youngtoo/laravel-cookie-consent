@@ -1,4 +1,4 @@
-# Laravel Cookie Consent
+# Laravel Cookie Consent (Implementation code missing)
 
 ## Core Functionalities
 
