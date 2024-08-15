@@ -1,0 +1,19 @@
+{
+    "name": "iantoo/laravel-cookie-consent",
+    "description": "Laravel cookie consent application.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Iantoo\\LaravelCookieConsent\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ian Too",
+            "email": "ianktoo@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
